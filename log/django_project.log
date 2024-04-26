@@ -1,0 +1,5 @@
+INFO 2024-04-24 22:13:49,382 autoreload 22084 20088 Watching for file changes with StatReloader
+INFO 2024-04-24 22:13:52,358 basehttp 22084 5236 "GET / HTTP/1.1" 200 6958
+INFO 2024-04-24 22:13:55,533 basehttp 22084 5236 "GET /about/ HTTP/1.1" 200 5439
+WARNING 2024-04-24 22:13:56,943 log 22084 5236 Not Found: /contacts/
+WARNING 2024-04-24 22:13:56,943 basehttp 22084 5236 "GET /contacts/ HTTP/1.1" 404 29611
